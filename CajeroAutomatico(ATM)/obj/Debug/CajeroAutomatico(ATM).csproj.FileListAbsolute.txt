@@ -1,0 +1,7 @@
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\bin\Debug\CajeroAutomatico(ATM).exe.config
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\bin\Debug\CajeroAutomatico(ATM).exe
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\bin\Debug\CajeroAutomatico(ATM).pdb
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\obj\Debug\CajeroAutomatico(ATM).csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\obj\Debug\CajeroAutomatico(ATM).csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\obj\Debug\CajeroAutomatico(ATM).exe
+C:\Users\Victoria\source\repos\CajeroAutomatico(ATM)\CajeroAutomatico(ATM)\obj\Debug\CajeroAutomatico(ATM).pdb
